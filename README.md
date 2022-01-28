@@ -1,3 +1,3 @@
 # smart-contracts
-## VersalToken.sol - smart contract for VER token
-## Vest.sol - smart contract for VER tokens in vesting
+- VersalToken.sol - smart contract of VER token
+- Vest.sol - smart contract of VER token vesting
